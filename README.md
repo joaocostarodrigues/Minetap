@@ -2,13 +2,13 @@
 
 Minetap 1.0 is a custom cheat client for Minecraft 1.5.2, developed using the MCP (Mod Coder Pack) framework and programmed in Java. This project enhances gameplay by providing several useful modifications.
 
+![Logo](https://pbs.twimg.com/media/Gj4xekWXoAAgNb5?format=jpg&name=small)
+
 ## Features
 
 - **Xray** (KEY: X) - Allows players to see ore blocks through walls.
 - **AutoSprint** (KEY: F) - Automatically makes the player sprint when the F key is pressed.
 - **Fly** (KEY: C) - Enables flight mode for the player.
-
-![Logo](https://pbs.twimg.com/media/Gj4xekWXoAAgNb5?format=jpg&name=small)
 
 ## Installation
 
